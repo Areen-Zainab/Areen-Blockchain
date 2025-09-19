@@ -54,7 +54,7 @@ const BlockchainApp = () => {
         {/* Header */}
         <header className="text-center mb-8 fade-in">
           <h1 className="text-4xl font-bold text-gray-800 mb-2 text-gradient">
-            🔗 Blockchain Demo
+            🔗 Areen Blockchain
           </h1>
           <p className="text-gray-600 text-lg">
             A complete blockchain implementation with Go backend and React frontend
@@ -160,7 +160,7 @@ const BlockchainApp = () => {
         {/* Footer */}
         <footer className="mt-12 text-center text-gray-500 text-sm fade-in">
           <div className="border-t pt-6">
-            <p>🔗 Blockchain Demo - Educational Implementation</p>
+            <p>🔗 Areen Blockchain - Educational Implementation</p>
             <p className="mt-2">Built with Go (Backend) + React (Frontend) + Tailwind CSS</p>
             <div className="mt-4 flex justify-center space-x-6">
               <span>🏗️ Proof of Work Algorithm</span>
